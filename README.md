@@ -1,9 +1,25 @@
-# BlinkIt-Clone-Full-Stack-Ecommerce
-BlinkIt-Clone-Full-Stack-Ecommerce
+# BlinkIt-Clone
+BlinkIt-Clone
 
 
 
-Build a complete e-commerce platform that looks like Blinkit using the MERN stack! In this project, we will create an online shopping site with key features, including product uploads, an admin panel, and management for categories and subcategories. We will use access and refresh tokens to establish secure user authentication. You will also learn how to set up password recovery, OTP-based email verification, and secure authentication processes. This project is a great way to improve your skills in MongoDB, Express, React, and Node.js.
+I built a complete e-commerce platform inspired by Blinkit using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This project simulates a real-world online shopping experience and helped me deepen my full-stack development skills.
+
+🔑 Key Features Implemented:
+	•	Product Management System
+I developed a fully functional product upload and listing system, enabling dynamic management of inventory.
+	•	Admin Panel
+I created a role-based admin dashboard to manage users, products, orders, categories, and subcategories efficiently.
+	•	Category & Subcategory Management
+I implemented a robust categorization system, making it easy to filter and organize products.
+	•	Secure Authentication System
+The platform uses access and refresh tokens to handle authentication securely, maintaining user sessions while protecting sensitive data.
+	•	OTP-Based Email Verification
+I integrated a secure OTP (One-Time Password) system for email verification during registration and password recovery.
+	•	Password Reset Functionality
+Users can reset their password via email, using a time-sensitive link that ensures a safe and user-friendly recovery process.
+	•	Fully Responsive UI with React
+The front end is crafted with React.js, focusing on intuitive UX/UI, responsiveness, and speed, closely resembling the Blinkit shopping experience
 
 
 
